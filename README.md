@@ -40,4 +40,3 @@ Você pode acessar o site da MMS Tour Virtual através do link abaixo:
 
 Se tiver alguma dúvida ou desejar mais informações sobre a MMS Tour Virtual, entre em contato conosco através do e-mail contato@mmstuorvirtual.com ou pelo telefone (+351) 933 433 551.
 
-Agradecemos pela visita e esperamos que você tenha uma experiência incrível em nosso site! 😃
