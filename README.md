@@ -24,6 +24,7 @@ Você pode acessar o site da MMS Tour Virtual através do link abaixo:
 - CSS
 - JavaScript
 - Bootstrap
+- TypeScrit
 
 ## Emoticons
 
